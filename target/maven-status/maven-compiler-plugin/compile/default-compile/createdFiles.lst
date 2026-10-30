@@ -1,0 +1,11 @@
+cranfield/CranfieldDFRBatchSearch.class
+cranfield/CranfieldTitleBoostSearch.class
+cranfield/CranfieldTunedBatchSearch.class
+cranfield/CranfieldIndexer.class
+cranfield/CranfieldParser$CranfieldDocument.class
+cranfield/CranfieldBatchSearch.class
+cranfield/CranfieldParser$RelevanceJudgement.class
+cranfield/CranfieldParser.class
+cranfield/CranfieldParser$CranfieldQuery.class
+cranfield/CranfieldAnalyzers.class
+cranfield/CranfieldSearch.class

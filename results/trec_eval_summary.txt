@@ -1,0 +1,90 @@
+======================================
+Configuration: NO_STOP_BM25
+======================================
+map                   	all	0.2772
+P_5                   	all	0.3031
+recall_5              	all	0.2718
+recall_10             	all	0.3809
+recall_15             	all	0.4442
+recall_20             	all	0.4836
+recall_30             	all	0.5281
+recall_100            	all	0.6985
+recall_200            	all	0.7886
+recall_500            	all	0.8791
+recall_1000           	all	0.9641
+
+======================================
+Configuration: NO_STOP_VSM
+======================================
+map                   	all	0.2777
+P_5                   	all	0.3004
+recall_5              	all	0.2728
+recall_10             	all	0.3624
+recall_15             	all	0.4213
+recall_20             	all	0.4644
+recall_30             	all	0.5231
+recall_100            	all	0.6937
+recall_200            	all	0.7929
+recall_500            	all	0.8832
+recall_1000           	all	0.9592
+
+======================================
+Configuration: STOP_BM25
+======================================
+map                   	all	0.2772
+P_5                   	all	0.3031
+recall_5              	all	0.2718
+recall_10             	all	0.3809
+recall_15             	all	0.4442
+recall_20             	all	0.4836
+recall_30             	all	0.5281
+recall_100            	all	0.6985
+recall_200            	all	0.7886
+recall_500            	all	0.8791
+recall_1000           	all	0.9641
+
+======================================
+Configuration: STOP_VSM
+======================================
+map                   	all	0.2777
+P_5                   	all	0.3004
+recall_5              	all	0.2728
+recall_10             	all	0.3624
+recall_15             	all	0.4213
+recall_20             	all	0.4644
+recall_30             	all	0.5231
+recall_100            	all	0.6937
+recall_200            	all	0.7929
+recall_500            	all	0.8832
+recall_1000           	all	0.9592
+
+======================================
+Configuration: STEM_BM25
+======================================
+map                   	all	0.3053
+P_5                   	all	0.3191
+recall_5              	all	0.2973
+recall_10             	all	0.3983
+recall_15             	all	0.4585
+recall_20             	all	0.5042
+recall_30             	all	0.5633
+recall_100            	all	0.7362
+recall_200            	all	0.8245
+recall_500            	all	0.9018
+recall_1000           	all	0.9523
+
+======================================
+Configuration: STEM_VSM
+======================================
+map                   	all	0.3022
+P_5                   	all	0.3200
+recall_5              	all	0.2919
+recall_10             	all	0.3961
+recall_15             	all	0.4543
+recall_20             	all	0.5120
+recall_30             	all	0.5903
+recall_100            	all	0.7464
+recall_200            	all	0.8318
+recall_500            	all	0.9049
+recall_1000           	all	0.9516
+
